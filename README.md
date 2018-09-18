@@ -4,9 +4,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/mrede/freshchat-electron-example
+git clone https://github.com/mrede/zendesk-electron-example
 # Go into the repository
-cd freshchat-electron-example
+cd zendesk-electron-example
 # Install dependencies
 npm install
 # Run the app
